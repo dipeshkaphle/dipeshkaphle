@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Dipesh"s Status](https://github-readme-stats.vercel.app/api?username=dipeshkaphle&show_icons=true&hide_border=true)
+![Dipesh"s Status](https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshkaphle&theme=vue&hide=css,html)
+
 
 <!--
 **dipeshkaphle/dipeshkaphle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
